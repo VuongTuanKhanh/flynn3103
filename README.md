@@ -13,7 +13,7 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 const flynn3103 = {
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript"],
-    tools: [Apache Spark, Hadoop, Python, Pandas, Numpy, ReactJS, Docker],
+    tools: [Apache Spark, Hadoop, Python, Pandas, Numpy, Kafka, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
 };
 ```
@@ -40,11 +40,6 @@ const flynn3103 = {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-   
-   
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- [💻 Learning Kafka!]
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 ## Show ❤️ By Starring My Repos!
