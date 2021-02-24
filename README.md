@@ -5,7 +5,7 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 <p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Kaggle: Flynn Tran](https://img.shields.io/kaggle/follow/Flynn?style=social)](https://www.kaggle.com/nhatlinhtran)
+[![Kaggle: Flynn Tran](https://img.shields.io/twitter/follow/Flynn?style=social)](https://www.kaggle.com/nhatlinhtran)
 [![Linkedin: Flynn Tran](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nhat-linh-tran-25744419a/)
 [![GitHub Flynn](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/flynn3103)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
