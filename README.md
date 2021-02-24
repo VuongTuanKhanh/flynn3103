@@ -1,12 +1,29 @@
 # 🙏🏻 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Flynn! 🙏🏻</h2> 
 
 I am currently pushing bachelor's degrees at Univeristy at Information Technology - K13
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif" width="230">
 <p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+[![Twitter: Flynn](https://img.shields.io/twitter/follow/flyn3103?style=social)](https://twitter.com/FlynnTran3)
+[![Linkedin: flynn3103](https://img.shields.io/badge/-flynn3103-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nhat-linh-tran-25744419a/)
+[![GitHub Flynn](https://img.shields.io/github/followers/flynn3103?label=follow&style=social)](https://github.com/flynn3103)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const flynn3103 = {
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript"],
+    tools: [Apache Spark, Hadoop, Python, Pandas, Numpy, ReactJS, Docker],
+    architecture: ["microservices", "event-driven", "design system pattern"],
+    techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+};
+```
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
 
 <p>
   <a href="https://github.com/php1301/php1301">
