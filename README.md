@@ -5,34 +5,6 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 <p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const php1301 = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Dart"],
-    askMeAbout: ["web dev", "tech", "app dev", "mobile"],
-    technologies: {
-        mobileApp: ["React Native", "Flutter"],
-        frontEnd: {
-            js: ["ReactJS", "NextJS", "GatsbyJS"],
-            css: ["Boostrap", "MaterialUI", "Antd", "Tailwind"]
-        },
-        backEnd: {
-            js: ["node", "Express", "NestJS", "Loopback"],
-            php
-        },
-        devOps: ["AWS", "GCP", "Docker🐳", "Route53", "Nginx", "Apache", "CI/CD"],
-        databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "WooCommerce", "WordPress", "php", "testing", "GraphqQL", "Prisma"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Pushing to Mobile field",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 
