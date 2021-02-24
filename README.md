@@ -5,11 +5,6 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 <p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://twitter.com/FlynnTran3)
-[![Linkedin: flynn]()](https://www.linkedin.com/in/nhat-linh-tran-25744419a/)
-![GitHub followers]()
-![]()
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -45,7 +40,6 @@ const php1301 = {
   <a href="https://github.com/php1301/php1301">
         <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=flynn3103&theme=gotham&show_icons=true" />
   </a>
-  https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
