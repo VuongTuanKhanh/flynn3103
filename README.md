@@ -15,11 +15,6 @@ const flynn3103 = {
     code: ["Python", "JavaScript"],
     tools: [Apache Spark, Hadoop, Python, Pandas, Numpy, ReactJS, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
-    techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
 };
 ```
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
