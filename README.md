@@ -12,7 +12,7 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 ```javascript
 const flynn3103 = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript"],
+    code: ["Python", "SQL"],
     tools: [Apache Spark, Hadoop, Python, Pandas, Numpy, Kafka, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
 };
