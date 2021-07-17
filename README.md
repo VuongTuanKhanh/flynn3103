@@ -43,5 +43,5 @@ const flynn3103 = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 ## Show ❤️ By Starring My Repos!
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynn3103&repo=taxi-app&theme=gotham)](https://github.com/flynn3103/taxi-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynn3103&repo=taxi-app&theme=gotham)](https://github.com/flynn3103/taxi-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynn3103&repo=taxi-app&theme=gotham)](https://github.com/flynn3103/Super_Store_Data_Warehouses)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynn3103&repo=taxi-app&theme=gotham)](https://github.com/flynn3103/Data_Engineer_Project_Notes)
