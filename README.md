@@ -12,24 +12,29 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 ```javascript
 const flynn3103 = {
     pronouns: "He" | "Him",
-    code: ["Python", "SQL"],
-    tools: [Apache Spark, Hadoop, Python, Pandas, Numpy, Kafka, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
+    code: ["Python", "SQL","C++","JavaScript","Scala"],
+    technologies: {
+        mobileApp: ["React Native"],
+        databases: ["MongoDB","PostgreSQL","SQL Server","Redis"],
+        cloud: [AWS, Azure],
+        devOps: ["Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible"],
+        misc: ["ReactJS", "Automation Scripting",]
+    }
 };
 ```
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <p>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="360" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flynn3103&layout=compact" />    
+    <img width="390" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flynn3103&layout=compact" />    
     </a>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
@@ -39,5 +44,5 @@ const flynn3103 = {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=flynn3103&theme=dracula" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=flynn3103" width="100%"/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
