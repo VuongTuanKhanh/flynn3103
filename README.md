@@ -1,6 +1,5 @@
 # 🙏🏻 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Flynn! 🙏🏻</h2> 
 
-I am currently pushing bachelor's degrees at Univeristy at Information Technology - K13
 <img align='right' src="https://media.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif" width="230">
 <p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
