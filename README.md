@@ -17,7 +17,7 @@ const flynn3103 = {
         databases: ["MongoDB","PostgreSQL","SQL Server","Redis"],
         cloud: [AWS, Azure],
         devOps: ["Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible"],
-        misc: ["ReactJS", "Automation Scripting",]
+        misc: ["ReactJS", "Web Scraping","Power BI"]
     }
 };
 ```
