@@ -21,7 +21,7 @@ const flynn3103 = {
 
 <p>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="360" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flynn3103&hide=c%23,C++,Python,Ruby,Objective-C,Objective-    C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />    
+    <img width="360" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flynn3103&hide=c%23,C++,Python,JavaScript,Scala%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />    
     </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
