@@ -45,4 +45,5 @@ const flynn3103 = {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=flynn3103&theme=dracula" width="100%"/>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with everyone</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
