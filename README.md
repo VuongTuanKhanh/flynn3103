@@ -1,7 +1,7 @@
 # 🙏🏻 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Flynn! 🙏🏻</h2> 
 
 <img align='right' src="https://media.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif" width="230">
-<p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Data Engineer and enthusiastic about Machine Learning, Big Data, DevOps<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> 
 </em></p>
 
 [![Linkedin: Flynn Tran](https://img.shields.io/badge/-flyn3103-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhat-linh-tran-25744419a/)](https://www.linkedin.com/in/nhat-linh-tran-25744419a/)
